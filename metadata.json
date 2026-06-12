@@ -1,0 +1,6 @@
+{
+  "name": "Metropolitan Corp",
+  "description": "Citizen interface for the Anglo-Futurist Metropolitan Corporation, governing transport, housing, utility grids, corporate ledger, development exchange, public works, and archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
